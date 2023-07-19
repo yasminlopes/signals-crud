@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ross Geller",
+      "email": "ross@example.com",
+      "gender": "M"
+    },
+    {
+      "id": 2,
+      "name": "Rachel Green",
+      "email": "rachel@example.com",
+      "gender": "F"
+    },
+    {
+      "id": 3,
+      "name": "Chandler Bing",
+      "email": "chandler@example.com",
+      "gender": "M"
+    },
+    {
+      "id": 4,
+      "name": "Monica Geller",
+      "email": "monica@example.com",
+      "gender": "F"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Organizar festa de aniversário da Phoebe",
+      "description": "Organizar uma festa surpresa de aniversário para a Phoebe",
+      "userId": 4,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Ajudar Joey a conseguir um emprego",
+      "description": "Ajudar Joey a preparar seu currículo e ensaiar para entrevistas de emprego",
+      "userId": 3,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "Ensinar Ross a dançar",
+      "description": "Ensinar Ross a dançar para o casamento de Monica e Chandler",
+      "userId": 1,
+      "completed": false
+    },
+    {
+      "id": 4,
+      "name": "Encontrar um vestido de noiva para Monica",
+      "description": "Acompanhar Monica para encontrar o vestido de noiva perfeito",
+      "userId": 2,
+      "completed": false
+    },
+    {
+      "name": "New task",
+      "description": "New task description",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
